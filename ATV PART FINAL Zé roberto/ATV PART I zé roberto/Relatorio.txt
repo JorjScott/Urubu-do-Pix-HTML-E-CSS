@@ -1,0 +1,3 @@
+os layouts fixos como o nome já diz são fixos e a maior diferença de um layout fixo para um layout fluido que foi o que eu escolhi é a forma de codar, no fixo usamos px (Pixels) e no fluido usamos % (Porcentagem) para definir os dominios
+outra coisa que percebi é que quando diminuimos o tamanho da pagina, as paginar que usam layouts fixos não se adaptam a tela
+já as de layout fluidos tentam ao maximo mostrar todo o conteudo se adaptando

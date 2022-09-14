@@ -1,0 +1,29 @@
+.elementgrandao {width: 100%;
+    
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    font-style: italic;
+  }
+  .elementExample {
+    width: 20%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin-left: 31%;
+  }
+  .elementExample_second {
+    margin-left: 52%;
+    width: 18%;
+
+  }
+  .elementExample_terceira{
+      margin-left: 2%;
+      margin-top: 15%;
+  }
+
+body{
+    background-color: #11d3da;
+}
+ 
